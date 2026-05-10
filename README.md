@@ -9,12 +9,15 @@
 
 ---
 
-## Compilação
+## Descrição
 
-Compile o programa utilizando GCC:
+Este projeto consiste no desenvolvimento do jogo `jogo_aventura.c`, implementado na linguagem C, com foco na aplicação de conceitos estudados na disciplina de Análise e Projetos de Algoritmos.
+
+---
+
+## Como Compilar
+
+No terminal, execute o seguinte comando:
 
 ```bash
 gcc jogo_aventura.c -o jogo_aventura.exe
-
-```bash
-.\jogo_aventura.exe
